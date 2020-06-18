@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programing/Projects/C++/Networks/Lab11/Objetosci.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/Programing/Projects/C++/Networks/Lab11/Pole.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/Programing/Projects/C++/Networks/Lab11/main.cpp
+iostream
+-
+Pole.h
+D:/Programing/Projects/C++/Networks/Lab11/Pole.h
+Objetosci.h
+D:/Programing/Projects/C++/Networks/Lab11/Objetosci.h
+

@@ -1,2 +1,1 @@
-# Wstep-do-systemow-operacyjnych
-Lab11
+Ten program będe liczył pola i objętosći.
